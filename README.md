@@ -45,10 +45,34 @@ This dataset serves as the basis for analyzing the relationships between vehicle
 4. **Model Evaluation**
    - Applied cross-validation and performance metrics such as RMSE, Accuracy, and Confusion Matrix to assess model performance.
 
+## Requirements
+
+Before running this project, please ensure the following requirements are met:
+
+- **Python 3.8+**  
+- **Libraries**:
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - mysql-connector-python
+
+You can install the required libraries using:
+
+```bash
+pip install -r requirements.txt
+```
+- **Database:**
+  - AWS account with an RDS (MariaDB) instance properly set up.
+  - Credentials (host, port, username, password) configured for database connection.
+- **Environment:**
+  - Jupyter Notebook or compatible IDE (e.g., VS Code, PyCharm).
+
 ## Project Structure
 - Raw and cleaned datasets
 - Data cleaning, EDA, and modeling notebooks
-- SQL scripts for database management, queries, and integration with AWS RDS (MariaDB).
+- SQL scripts for database management, queries, and AWS RDS (MariaDB) integration
 - Summary of findings and results
 - Project documentation
 
