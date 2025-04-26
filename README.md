@@ -48,7 +48,7 @@ This dataset serves as the basis for analyzing the relationships between vehicle
 ## Project Structure
 - Raw and cleaned datasets
 - Data cleaning, EDA, and modeling notebooks
-- SQL scripts for database management and queries
+- SQL scripts for database management, queries, and integration with AWS RDS (MariaDB).
 - Summary of findings and results
 - Project documentation
 
@@ -62,4 +62,6 @@ This dataset serves as the basis for analyzing the relationships between vehicle
 - Analyze the impact of emerging vehicle types like electric and hybrid vehicles.
 
 ## License
-This project is for educational and research purposes only.
+This project is intended for educational and research purposes only.  
+It includes examples of SQL database management and cloud database integration using AWS RDS (MariaDB).  
+Please ensure appropriate credential management and access controls when deploying similar database solutions in production environments.
