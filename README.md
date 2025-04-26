@@ -13,7 +13,11 @@
 This project aims to explore the relationship between vehicle characteristics and their environmental performance in Canada. Using a data-driven approach, the study applies statistical analysis and machine learning models to predict fuel consumption, emissions, and environmental ratings based on vehicle specifications such as engine type, transmission, and fuel type.
 
 ## Dataset
-- **Source**: Canadian government open datasets on vehicle fuel consumption and emissions.
+The dataset used in this project is obtained from the Government of Canada's open data portal, specifically the Vehicle Fuel Consumption Ratings and Emissions datasets.  
+It provides detailed information on vehicle specifications, fuel efficiency, CO₂ emissions, and environmental ratings for vehicles sold in Canada.
+
+- **Source**: [Vehicle Fuel Consumption Ratings - Canada.ca](https://open.canada.ca/data/en/dataset/7c19b52d-8ab2-4f7d-91b5-5e41a77b0bfa)
+
 - **Key Features**:
   - Vehicle Class
   - Engine Size
@@ -22,6 +26,8 @@ This project aims to explore the relationship between vehicle characteristics an
   - Fuel Consumption Rates (City, Highway, Combined)
   - CO₂ Emissions
   - Environmental Rating
+
+This dataset serves as the basis for analyzing the relationships between vehicle attributes and their environmental performance.
 
 ## Methodology
 1. **Data Cleaning**
