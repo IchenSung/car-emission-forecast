@@ -16,7 +16,7 @@ This project aims to explore the relationship between vehicle characteristics an
 The dataset used in this project is obtained from the Government of Canada's open data portal, specifically the Vehicle Fuel Consumption Ratings and Emissions datasets.  
 It provides detailed information on vehicle specifications, fuel efficiency, CO₂ emissions, and environmental ratings for vehicles sold in Canada.
 
-- **Source**: (https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64)
+- **Source**: https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64
 
 - **Key Features**:
   - Vehicle Class
